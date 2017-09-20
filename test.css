@@ -4,3 +4,7 @@ h1 {
 a:hover {
     fill: red;
 }
+svg {
+    fill: green;
+}
+    
