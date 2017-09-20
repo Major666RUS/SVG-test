@@ -4,6 +4,9 @@ h1 {
 a:active svg {
     fill: red;
 }
+a:hover svg {
+    fill: blue;
+}
 svg {
     fill: green;
 }
